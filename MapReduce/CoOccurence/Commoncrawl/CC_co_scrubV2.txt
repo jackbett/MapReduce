@@ -1,0 +1,10 @@
+"(home, sport)"	1410
+"(us , sport)"	1333
+"(team, sport)"	1193
+"(game, sport)"	1149
+"(home, team)"	1131
+"(home, soccer)"	1076
+"(sport, soccer)"	1052
+"(team, soccer)"	1033
+"(game, soccer)"	1008
+"(new, sport)"	1007

@@ -1,0 +1,10 @@
+"('sport', 'game')"	973
+"('game', 'sport')"	921
+"('sport', 'team')"	894
+"('sport', 'like')"	877
+"('like', 'sport')"	865
+"('team', 'sport')"	851
+"('sport', 'get')"	811
+"('get', 'sport')"	807
+"('just', 'sport')"	802
+"('sport', 'just')"	785
